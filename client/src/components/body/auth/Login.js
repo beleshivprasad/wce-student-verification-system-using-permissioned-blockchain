@@ -99,7 +99,7 @@ function Login() {
 
             </div>
 
-            <p>New Customer? <Link to="/register">Register</Link></p>
+            <p>New User? <Link to="/register">Register</Link></p>
         </div>
     )
 }
