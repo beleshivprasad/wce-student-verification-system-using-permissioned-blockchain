@@ -1,0 +1,9 @@
+.contact{
+    width: 1000px;
+    height: 300px;
+    margin: 0 auto;
+    z-index: -10;
+}
+h1{
+    text-align: center;
+}
